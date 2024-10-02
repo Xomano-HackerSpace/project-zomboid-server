@@ -1,0 +1,13 @@
+version: '3'
+services:
+  projectzomboid-server:
+    container_name: projectzomboid-server
+    image: ich777/steamcmd:projectzomboid
+    env_file: .env
+    ports:
+      - "16262-16326:16262-16326"
+      - "16261:16261/udp"
+      - "27015:27015"
+    volumes:
+      - /root/project_zomboid_server/steamcmd:/serverdata/steamcmd
+      - /root/project_zomboid_server/serverfiles:/serverdata/serverfiles
