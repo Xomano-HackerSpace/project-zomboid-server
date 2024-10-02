@@ -1,7 +1,6 @@
-# Servidor de Project Zomboid Xomano HackerSpace
-
+<h1 style="text-align: center;">Servidor de Project Zomboid Xomano HackerSpace</h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/71027cd0-3748-4606-b1e2-6c4f43afee8e/phplUQM0C-removebg-preview.png" alt="Xomano HackerSpace Project Zomboid Server"/>
+  <img src="https://github.com/user-attachments/assets/71027cd0-3748-4606-b1e2-6c4f43afee8e" alt="Xomano HackerSpace Project Zomboid Server"/>
 </p>
 
 ## Sobre
